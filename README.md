@@ -1,76 +1,63 @@
- [![](https://img.shields.io/badge/tabithaomelay-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tabithaomelay/)
+ [![](https://img.shields.io/badge/matthew-marcus-a0b446153?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-marcus-a0b446153/)
 
-# Tabitha O'Melay
+# Matthew Marcus
 
-510-926-8161  
-<mailto:tabby_katz@icloud.com>  
-web: <https://www.tabbykatz.com>  
-github: <https://github.com/tabbykatz>  
-linkedin: <https://www.linkedin.com/in/tabbykatz/>  
+510-989-2246  
+<mailto:matthew.marcus@hey.com>  
+web: <https://j-archive.com/showplayer.php?player_id=15293>  
+github: <https://github.com/fffunctional>  
+linkedin: <https://www.linkedin.com/in/matthew-marcus-a0b446153/>  
 Portland, OR
 
 ## What I'm Looking For
 
-- Seeking a dynamic team that fosters diversity in culture, experiences, and ideas.
-- Driven by a passion for mentorship and a robust feedback culture, aiming to contribute to a healthy and supportive company environment.
+- A developer role in an industry that makes some kind of positive difference in the world.
+- I'd like to proceed down a managerial track ultimately, but prove myself with some hands-on experience first.
+- I prefer a highly communicative, Agile environment that uses standups and retros to improve its workflows, actively and continuously.
 
 ## What I Can Bring
 
-- Swift learner with a proactive approach, seeking mentorship to grow and thrive as a valued team member.
-- Possessing curiosity, grit, and strong interpersonal skills alongside technical proficiency.
-- Embracing new challenges and always eager to explore and learn new technologies.
+- 12+ years of experience as a PHP developer in a wide range of different industries.
+- Strong interpersonal and communication skills as a humanities graduate.
+- Curiosity, imagination and an eagerness to learn the next things that needs learning.
 
 ### Technologies
 
-- **Proficient**: git, Bash, C, Python, JavaScript, SQL, HTML, Ruby, Rails, React, PostgreSQL, CSS
-- **Current focus**: gRPC, Project Design
-- **Curious**: Kotlin
-- **Familiar**: Docker, Flask, NGINX, Puppet, Next.js, Rspec, Datadog, SumoLogic, FullStory, LaunchDarkly
-- **Not afraid of**: Learning new languages or technologies
+- **Proficient**: PHP, JavaScript, SQL, Laravel, HTML, CSS, AWS, Docker, git, bash
+- **Current focus**: Python
+- **Curious**: Elixir, Kotlin, Rust
+- **Not afraid of**: Learning new things
 
 ## Experiences
 
-### Upstart, Remote (Jan 2022-Current)
-Upstart is an innovative Fintech company utilizing machine learning to enable effortless credit decisions based on true risk. As a part of a talented backend engineering team, I contribute to building and leveraging Ruby on Rails and Python technologies to support instant credit decision-making through machine learning.
+**Substitute Teacher**
 
-**Software Engineer 2**
+### ESS (Oct 2023 -)
 
-- Designing improvements for the instant approval flow.
-- Collaborating on the effort to break up the monolith, define our domains, and build gRPC APIs.
-- Assisting other products with seamless integration into our services.
+**Senior Backend Developer**
 
-**Software Engineer**
+### Carpool Logistics (Feb-Jun 2023)
+### Glu Mobile        (Feb 2021 - Feb 2023)
+### Wag Labs Inc      (Feb 2019 - Feb 2021)
 
-- Implemented third-party vendor integration for instant approval and fraud prevention.
-- Conducted experiments to optimize verifications, enhancing efficiency.
-- Identified and resolved flaws in rule sets, improving system accuracy.
-- Developed Python testing suite for microservice consistency.
+**Full Stack Developer**
+
+### VIPR Solutions    (Apr-Dec 2018)
+### WMW London Ltd    (Jan-Mar 2018)
+### Beggars Group UK  (Jun 2011 - Jan 2018)
+
+**Developer**
+
+### The Number Creative    (Mar 2010 - Jun 2011)
+### Castle Rock Publishing (Jan 2007 - Mar 2008)
+
+**Hardware Support Engineer**
+
+### Gillette UK (1998)
 
 **Software Engineer (Intern)**
 
-- Developed and maintained full-stack internal fraud monitoring tools, ensuring swift response and bolstering security.
-- Collaborated with stakeholders on database schema, permissions, Redis caching, and UI enhancements.
-- Implemented data exposure strategies for machine learning via version logging.
+## Extracurriculars
 
-### Techtonica, Remote (July 2021—Dec 2021)
-
-Six-months full-time immersive full-stack development education. Capstone: Game Night, An app for board game enthusiasts who attend in-person gaming meetups.
-
-- Full-stack app built with PostgreSQL, Express, Node.js, and React, Auth0.
-- Leverages external API to solve domain-specific problems in planning, hosting, and attending tabletop events.
-
-Other notable activities:
-
-- Reinforced foundational web application knowledge by building multiple full-stack apps.
-- Led our 12-person cohort in agile meetings and pairing sessions.
-- Presented code examples and tutorial solutions.
-
-### Holberton School, San Francisco (Jan 2020—2021)
-
-Year-long intensive education in full-stack software engineering. My capstone project, <https://www.tabbykatz.com>, is built with Next.js and React and continuously deployed with Vercel. My blog is written in Markdown and published from the command line.
-
-Other notable activities:
-
-- Re-implemented the C standard library and built a terminal shell in C using those custom library functions to develop thorough fundamental knowledge of the language.
-- Created a full stack Linux/Apache/MySQL/Python AirBnB clone.
-- Configured and managed servers & primary/replica databases in AWS via SSH & the console, including SSL certs for NGINX, Puppet config, Datadog management, load balancing.
+### Times Crossword Champion 2023
+### 4-time Jeopardy Winner (aired Feb 2023)
